@@ -8,3 +8,4 @@ destructivelyAppendKitten("Simone");
 function destructivelyPrependKitten(name){
   kittens.shift(name);
 }
+destructivelyPrependKitten("Maxwell");
