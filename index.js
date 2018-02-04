@@ -20,4 +20,7 @@ function destructivelyRemoveFirstKitten(){
   return kittens;
 }
 
-function 
+function appendKitten(name){
+  var newArray = [];
+  return newArray;
+}
