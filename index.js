@@ -11,6 +11,6 @@ function destructivelyPrependKitten(name){
 destructivelyPrependKitten("Maxwell");
 
 function destructivelyRemoveLastKitten(name){
-kitten.pop(name);
-return kitten;
+kittens.pop(name);
+return kittens;
 }
