@@ -11,5 +11,6 @@ function destructivelyPrependKitten(name){
 destructivelyPrependKitten("Maxwell");
 
 function destructivelyRemoveLastKitten(name){
-  return kitten.slice(0, kitten.length - 1);
+kitten.pop(name);
+return kitten;
 }
