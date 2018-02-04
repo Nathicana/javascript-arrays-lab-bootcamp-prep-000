@@ -10,3 +10,6 @@ function destructivelyPrependKitten(name){
 }
 destructivelyPrependKitten("Maxwell");
 
+function destructivelyRemoveLastKitten(name){
+  kittens.pop(name);
+}
