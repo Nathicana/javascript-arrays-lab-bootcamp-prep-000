@@ -9,3 +9,4 @@ function destructivelyPrependKitten(name){
   kittens.unshift(name);
 }
 destructivelyPrependKitten("Maxwell");
+
