@@ -25,4 +25,6 @@ function appendKitten(name){
   return arrayNew;
 }
 
-function 
+function prependKitten(name){
+  
+}
